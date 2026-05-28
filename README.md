@@ -11,6 +11,8 @@ It changes things like
 - Multiplayer
 - Quit Game
 - And More
+  
+You can check out the [gallery](https://modrinth.com/resourcepack/tweakso/gallery) to see the menus!
 
 Thanks for checking out my rp!
 

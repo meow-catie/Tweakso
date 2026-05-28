@@ -14,4 +14,4 @@ It changes things like
 
 Thanks for checking out my rp!
 
-If you wanna use it your free to [download]([https://jacethejace4501.github.io/Tweakso/download]) it!
+If you wanna use it your free to [download](https://jacethejace4501.github.io/Tweakso/download) it!

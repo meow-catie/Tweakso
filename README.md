@@ -16,7 +16,7 @@ Check out our [website!](https://cat11meow.my.canva.site/tweakso)
 
 Thanks for checking out my rp!
 
-If you wanna use it your free to [download](https://cat11meow.my.canva.site/tweakso-download) it!
+If you wanna use it your free to [download](https://cat11meow.my.canva.site/download-tweakso) it!
 
 Credits:
 - <a href="https://www.textstudio.com/">Font generator</a>

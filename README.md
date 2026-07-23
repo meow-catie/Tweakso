@@ -21,5 +21,4 @@ If you wanna use it your free to [download](https://cat11meow.my.canva.site/down
 This resoruce pack only works for English (US)
 
 Credits:
-- <a href="https://www.textstudio.com/">Font generator</a>
 - [MC Creator](https://mcreator.net/)

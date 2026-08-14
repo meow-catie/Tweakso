@@ -1,4 +1,4 @@
-![Tweakso](https://cdn.modrinth.com/data/cached_images/5b158ed6210e1ebfe1fa00c73ffcb9d8955ec1a4.png)
+![Tweakso](https://cdn.modrinth.com/data/cached_images/3c63e21240ac6c1df0e90812ce567b4d008879e8.png)
 
 This is a quality of life rp!
 
